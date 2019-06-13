@@ -1,0 +1,47 @@
+
+.jumbotron {
+
+	color: white;
+	text-align: center;
+	background-image: url("IMAGES/Jumb.jpg");
+
+}
+
+.container{
+	margin-bottom: 100px;
+}
+
+.abt{
+	font-size: 20PX; 
+	color: #83DBF2;
+}
+
+.abtimg{
+	margin-top: -20px;
+	margin-bottom: 20px;
+}
+
+
+h2{
+
+	color: #1E8DAB;
+	font-size: 20px;
+}
+
+.separator {
+
+    height: 2px;
+    width: 300px;
+    margin: 10px 0px;
+    background: #1E8DAB;
+    position: relative;
+}
+
+.im1{
+	border-radius: 50%;
+}
+
+footer{
+	height: 300px;
+	background-color: #83DBF2;
+}
